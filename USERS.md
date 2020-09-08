@@ -26,8 +26,10 @@ TEMPLATE:
 - https://mritd.com/ - **漠然** (Software Engineer and DevOps)
 - https://musq.github.io — **Ashish Ranjan** (Software Engineer)
 - https://protocod.gitlab.io/blog/ **protocod** (Web Developer)
+- https://shinytoyrobots.com - **shinytoyrobots** (Eclectic journaling and essays)
 - https://simeononsecurity.ch/ - **SimeonOnSecurity)** (Security and Automation Blog)
 - https://verso.re/ - **Joan Calabrés** (Security Engineer)
+<<<<<<< HEAD
 - https://www.adamormsby.com - **Adam Ormsby** (Generalist Programmer - Web, Mobile, Games)
 - https://kartiniteknologi.id/ - **Kartini Teknologi team** (Tech podcast)
 - https://eallion.com/ - **大大的小蜗牛** (E-commerce operator)
@@ -35,3 +37,5 @@ TEMPLATE:
 - https://etra0.github.io/ - **Sebastián Aedo** (Computer Science student, interested in Game Hacking)
 - https://blog.toluwalemi.com/ - **Toluwalemi Oluwadare** (Software Engineer and Content Writer)
 - https://blog.agate.pw/ - **Marco Agate** (System Engineer, DevOps)
+=======
+>>>>>>> a121f15 (Update USERS.md)
