@@ -27,7 +27,7 @@ TEMPLATE:
 - https://musq.github.io — **Ashish Ranjan** (Software Engineer)
 - https://protocod.gitlab.io/blog/ **protocod** (Web Developer)
 - https://shinytoyrobots.com - **shinytoyrobots** (Eclectic journaling and essays)
-- https://simeononsecurity.ch/ - **SimeonOnSecurity)** (Security and Automation Blog)
+- https://simeononsecurity.ch/ - **SimeonOnSecurity** (Security and Automation Blog)
 - https://verso.re/ - **Joan Calabrés** (Security Engineer)
 <<<<<<< HEAD
 - https://www.adamormsby.com - **Adam Ormsby** (Generalist Programmer - Web, Mobile, Games)
