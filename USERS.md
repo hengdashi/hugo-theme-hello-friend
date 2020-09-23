@@ -36,3 +36,4 @@ TEMPLATE:
 - https://etra0.github.io/ - **Sebastián Aedo** (Computer Science student, interested in Game Hacking)
 - https://blog.toluwalemi.com/ - **Toluwalemi Oluwadare** (Software Engineer and Content Writer)
 - https://blog.agate.pw/ - **Marco Agate** (System Engineer, DevOps)
+- https://atticuslab.com/ - **Atticus** (Game Server Engineer)
