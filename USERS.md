@@ -19,6 +19,7 @@ TEMPLATE:
 - https://fazi1058.github.io **Faezeh Roeinfard** (Student)
 - https://felixleger.com/ - **Félix Léger** (Sofware Developer and DevOps)
 - https://guilhermesteves.dev/ - **Guilherme Esteves** (Software Engineer, Writer, Speaker)
+- https://hesec.de - **Patrick Hener** (Security Researcher, Pentester and Coder)
 - https://ilya-lesikov.com - **Ilya Lesikov** (DevOps, SRE)
 - https://jonathan.rico.live/ - **Jonathan Rico** (Electronics Engineer)
 - https://kartiniteknologi.id/ - **Kartini Teknologi team** (Tech podcast)
