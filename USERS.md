@@ -38,3 +38,4 @@ TEMPLATE:
 - https://blog.toluwalemi.com/ - **Toluwalemi Oluwadare** (Software Engineer and Content Writer)
 - https://blog.agate.pw/ - **Marco Agate** (System Engineer, DevOps)
 - https://atticuslab.com/ - **Atticus** (Game Server Engineer)
+- https://gregbair.dev/ - **Greg Bair** (Developer and App Architect)
