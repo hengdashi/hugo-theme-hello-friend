@@ -39,3 +39,4 @@ TEMPLATE:
 - https://blog.agate.pw/ - **Marco Agate** (System Engineer, DevOps)
 - https://atticuslab.com/ - **Atticus** (Game Server Engineer)
 - https://gregbair.dev/ - **Greg Bair** (Developer and App Architect)
+- https://www.miroslavbucek.cz - **Miroslav Buček** (Product Manager, Smart Home company owner)
